@@ -10,7 +10,7 @@ const HEROES: Hero[] = [
   { id: 4600, name: 'Matte3' },
   { id: 4800, name: 'Anvendt plystring' },
   { id: 4170, name: 'Programvareutvikling' },
-  { id: 20, name: 'Exphil' }
+  { id: 2000, name: 'Exphil' }
 ];
 
 
